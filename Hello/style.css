@@ -1,0 +1,26 @@
+﻿body{
+  margin: 0;
+  font-family: arial;
+}
+
+*{
+  box-sizing: border-box;
+}
+.header{
+	height:150px;
+	width:100%;
+	background-color:linear-gradient(to right,#00ACC1,#FFF9C4);
+position:relative;}
+.text{
+	height:40px;
+	width:25%;
+	background-color:rgba(255,255,255,0.5);
+	position:absolute;
+left:50%;}
+.footer{height:50px;
+width:100%;
+background:linear-gradient(to left,#00ACC1,#006064);
+
+}
+
+	
